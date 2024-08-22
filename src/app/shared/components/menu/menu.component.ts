@@ -33,14 +33,14 @@ export class MenuComponent {
               routerLink: 'numbers'
             },
             {
-              label: 'No Comunes',
+              label: 'No comunes',
               icon: 'pi pi-globe',
               routerLink: 'uncommon'
             },
           ]
         },
         {
-          label: 'Pipes Personalizados',
+          label: 'Pipes personalizados',
           icon: 'pi pi-cog',
           items: [
             {
